@@ -17,7 +17,7 @@ prosesBaca ();
 	return 0;
 }
 
-//proses mambaca
+//proses membaca
 void prosesBaca () {
 	cout << "Masukkan nilai A : ";
 	cin >>a;
@@ -32,9 +32,9 @@ void prosesTukar () {
 	a=temp;
 }
 
-//prosesTambil
+//prosesTampil
 void peosesTampil () {
 	cout << "=============" <<endl;
 	cout << "Nilai A sekarang : "<<a<<endl;
 	cout << "Nilai B sekarang : "<<b;
-}s
+}
